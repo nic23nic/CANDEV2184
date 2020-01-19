@@ -1,0 +1,37 @@
+SUMARY,ENERGY(MW)
+ALBERTA,Last Update : Jan 19 2020 04:52
+Alberta Total Net Generation,9639
+Net Actual Interchange,-466
+Alberta Internal Load (AIL),10105
+Net-To-Grid Generation,6943
+Contingency Reserve Required,430
+Dispatched Contingency Reserve (DCR),444
+Dispatched Contingency Reserve -Gen,370
+Dispatched Contingency Reserve -Other,74
+LSSi Armed Dispatch,0
+LSSi Offered Volume,191
+,
+ONTARIO,Updated: 2020-01-19 06:48:16
+Total Energy,17683.9
+Total Loss,405.4
+Total Load,17278.5
+Total Dispatch Load,7
+Total 10S,236
+Total 10N,917.5
+Total 30R,264.5
+,
+NEW BRUNSWICK,Updated: Jan 19 2020 07:53:05 Atlantic Time.  
+NB Load,2334
+NB Demand,2430
+ISO-NE,71
+EMEC,16
+MPS,53
+QUEBEC,-1050
+NOVA SCOTIA,64
+PEI,172
+10 Min Reserve Margin,532
+10 Min Spinning Reserve Margin,294
+,
+NOVA SCOTIA,Updated: April 19 2019
+available capacity,2453MW
+Current Load,1567
